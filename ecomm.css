@@ -1,0 +1,232 @@
+<style type="text/css">
+abcd{}
+body{}
+a{
+text-decoration:none;
+}
+div.container
+{
+	width:1024px;
+	margin:auto;
+
+}
+div.header
+{
+
+
+}
+div.website-header
+{
+color:White;
+font-family:sans-serif;
+text-align:center;
+padding:5px 0px 5px 0px;
+}
+div.navigation
+{
+padding:5px 0px 5px 0px;
+background-image:-webkit-linear-gradient(#333333,#242424);
+background-image:-moz-linear-gradient(#333333,#242424);
+background-image:linear-gradient(#333333,#242424);
+}
+div.navigation a
+{
+text-decoration:none;
+font-size:13px;
+font-family:verdana;
+color:white;
+margin-left:10px;	
+}
+div.hnav
+{
+border:1px solid lightgray;
+background-image:-webkit-linear-gradient(#333333,#242424);
+background-image:-moz-linear-gradient(#333333,#242424);
+background-image:linear-gradient(#333333,#242424);
+}
+div.content
+{
+}
+ p.title{
+font-size:13px;
+font-family:Helvetica;
+color:#76B506;
+font-weight:bold;
+padding:7px;
+}
+h3.title
+{
+font-family:Helvetica;
+color:#4c4c4c;
+background-color:#e5e5e5;
+padding:10px;
+padding-top:none;
+margin-top:5px;
+border:1px solid gray;
+}
+div.hnav
+{
+padding:7px;
+}
+div.hnav li 
+{
+padding:3px 0px 3px 0px;
+list-style-type:none;
+margin-left:-30px;
+}
+div.hnav li  a
+{
+text-decoration:none;
+color:white;
+font-size:13px;
+font-family:verdana;
+}
+div.book_title
+{
+font-size:13px;
+font-family:verdana;
+color:firebrick;
+font-weight:bold;
+text-align:center;
+padding:5px;
+margin-bottom:5px;
+}
+table.image_display td{border:1px solid #cecece;}
+div.details{
+padding:7px;
+text-align:center;
+}
+div.details img
+{
+bordeR:1px solid black;
+height:150px;
+width:130px;
+}
+div.details ul{
+list-style-type:none;
+margin-left:-30px;
+}
+div.details ul li
+{
+padding:3px 0px 3px 0px;
+text-align:left;
+font-size:13px;
+font-family:verdana;
+}
+div.details ul li b{color:#1e1e1e}
+a.add_to_cart_button
+{
+clear:both;
+margin-top:10px;
+text-align:center;
+padding:7px;
+background-image:-webkit-linear-gradient(firebrick,maroon);
+background-image:-moz-linear-gradient(firebrick,maroon);
+background-image:linear-gradient(firebrick,maroon);
+border-radius:5px;
+text-decoration:none;
+color:white;
+font-size:13px;
+font-family:verdana;
+}
+div.login
+{
+padding:7px;
+font-family:helvetica;
+font-size:13px;
+}
+div.login input
+{
+border-radius:3px;
+padding:3px;
+border:1px solid gray;
+margin-bottom:5px;
+margin-top:2px;
+}
+div.signup
+{
+padding:10px;
+border:1px solid #e5e5e5;
+font-size:13px;
+font-family:helvetica;
+}
+div.signup input,select,textarea
+{
+	margin-top:10px;
+	border-radius:5px;
+	padding:3px;
+	border:1px solid #a5a5a5
+}
+table.cart_table
+{
+	border:1px solid lightgray;
+	background-color:#e5e5e5;
+	font-size:13px;
+	font-family:verdana;
+}
+table.cart_table th{	padding:3px 7px 3px 7px;}
+table.cart_table td
+{	background-color:white;
+border:1px solid lightgray;
+	padding:5px 7px 5px 7px;
+
+}
+table.book_profile
+{
+
+	padding:20px;
+}
+di.book_details
+{
+	padding:7px;
+	border:1px solid gray;
+}
+ul.desc
+{
+list-style-type:none;
+font-size:13px;
+font-family:verdana;
+padding:10px;
+
+}
+ul.desc li
+{
+padding:6px 0px 6px 0px;
+color:#2c2c2c;
+border-bottom:1px solid lightgray;
+}
+div.more_books 
+{
+padding:10px;
+border:1px solid lightgray;
+font-size:13px;
+font-family:verdana;
+text-align:center;
+}
+div.more_books  img
+{
+bordeR:1px solid black;
+}
+div.more_books p{font-weight:bold;color:firebrick}
+table.checkout_table  p{font-size:13px;font-family:helvetica;font-weight:bold;color:firebrick;}
+table.checkout_table ul li
+{
+list-style-type:none;
+padding:7px 0px 7px 0px;
+font-family:verdana;
+font-size:13px;
+}
+table.checkout_table ul li input
+{
+border:1px solid gray;
+border-radius:5px;
+padding:3px;
+}
+
+div.message
+{
+padding:15px;
+border:2px solid #e5e5e5;
+color:#3c3c3c;
+}
+</style>
